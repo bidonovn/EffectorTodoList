@@ -6,9 +6,10 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   resolve: {
     alias: {
-      'store': path.resolve(__dirname, './src/store'),
-      'utils': path.resolve(__dirname, './src/utils'),
+      store: path.resolve(__dirname, './src/store'),
+      utils: path.resolve(__dirname, './src/utils'),
     },
   },
+  base: 'https://bidonovn.github.io/EffectorTodoList/',
   plugins: [react()],
 });
