@@ -10,6 +10,6 @@ export default defineConfig({
       utils: path.resolve(__dirname, './src/utils'),
     },
   },
-  base: 'https://bidonovn.github.io/EffectorTodoList/',
+  base: '/EffectorTodoList',
   plugins: [react()],
 });
