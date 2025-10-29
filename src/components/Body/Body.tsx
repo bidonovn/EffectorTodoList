@@ -8,7 +8,7 @@ import { Typography } from '@ornament-ui/kit/__inner__/esm/components/Typography
 const Body = () => (
   <div className={styles.bodyContainer}>
     <Typography variant="heading-xl" align="center">
-      Список дел
+      Список дел123
     </Typography>
     <TaskInput />
     <ProgressBar />
