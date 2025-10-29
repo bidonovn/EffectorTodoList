@@ -466,7 +466,7 @@
   resolved "https://registry.yarnpkg.com/@ornament-ui/icons/-/icons-1.2.1.tgz#91674c1a45c0d28f42625f5be11e1c5c453a9dd8"
   integrity sha512-VQvjyvpBZEL7EIVzr/AzRPV/iCe7Sqbth9m7L56fBeS91uEZ45B4pTwzchVB7kTBDJXsN2H4QRnULk/8iBAuCg==
 
-"@ornament-ui/kit@^1.23.4":
+"@ornament-ui/kit@1.18.0":
   version "1.18.0"
   resolved "https://registry.yarnpkg.com/@ornament-ui/kit/-/kit-1.18.0.tgz#13234178c67072816495c9ba06f0b1b71d358083"
   integrity sha512-iQN13EbwY/Op40uOGiVRvzl23oai99i9xwEkM6VpsuLpJ6x1ziG1j86kUaa/ZUVwVVPbEfw6U64tT/aOD9NYsA==
