@@ -8,16 +8,13 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@ornament-ui/icons": "^1.2.1",
     "@ornament-ui/kit": "1.18.0",
     "effector": "^23.4.4",
     "effector-react": "^23.3.0",
-    "gh-pages": "^6.3.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
